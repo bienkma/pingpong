@@ -1,0 +1,7 @@
+{
+  "HostName"      :     "r0101.grafana.vn",
+  "NodeSameRack"   :     "172.16.1.1",
+  "NodeDiffRack"   :     "192.168.5.10",
+  "NodeDiffRegion" :    "10.30.0.1",
+  "ElasticURL"    :   ["http://192.168.10.111:9200"]
+}
